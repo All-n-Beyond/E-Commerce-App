@@ -1,3 +1,2 @@
-# E-Commerce Site
-
-A platform for customers to browse and purchase products online.
+# E-commerce
+A react based E-commerce Project
